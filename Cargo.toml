@@ -38,3 +38,8 @@ path = "examples/filters.rs"
 
 name = "midi"
 path = "examples/midi.rs"
+
+[[example]]
+
+name = "eartrainer"
+path = "examples/eartrainer.rs"
